@@ -1,7 +1,7 @@
 '''
 t-shirt = $ 56.5
 pant = $ 89.8
-total price of 3 t-shirts and five pants?
+total price of 3 t-shirts and 5 pants?
 '''
 t_shirt = 56.5
 pant = 89.8
