@@ -1,4 +1,4 @@
-name = "Sophia's company"
+name = input("Enter your enterprise's name: ")
 stock_price = float(input('Enter the stock price: '))
 stock_code = int(input('Your stock code: '))
 days = int(input('Enter the days to grow: '))
